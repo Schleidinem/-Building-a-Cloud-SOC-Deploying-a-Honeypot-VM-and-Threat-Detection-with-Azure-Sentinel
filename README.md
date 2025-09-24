@@ -1,0 +1,1 @@
+# -Building-a-Cloud-SOC-Deploying-a-Honeypot-VM-and-Threat-Detection-with-Azure-Sentinel
