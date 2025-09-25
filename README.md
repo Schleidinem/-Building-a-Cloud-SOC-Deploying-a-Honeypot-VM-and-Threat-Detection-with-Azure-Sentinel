@@ -12,7 +12,7 @@ We configure a honeypot VM, forward logs to a central repository, and analyze **
 - Build an Attack Map to track real-time hacker activity  
 
 ## 🛠️ Tech Stack  
-- Microsoft Azure (Free Subscription)  
+- Microsoft Azure
 - Virtual Machines (Windows Server)  
 - Log Analytics Workspace  
 - Microsoft Sentinel (SIEM)  
